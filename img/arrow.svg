@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" width="400" height="400" viewBox="0 0 400 400" xmlns="http://www.w3.org/2000/svg">
+  <desc>Created with Fabric.js 3.6.2</desc>
+  <g transform="matrix(-4.17, 0, 0, -4.17, 200, 195.830002)" id="surface1">
+    <path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill-rule: nonzero; opacity: 1;" transform=" translate(-24, -23)" d="M 44 7 L 4 23 L 44 39 L 37 23 Z M 36 23 L 17 23 L 35 16 L 36 22 Z" stroke-linecap="round"/>
+  </g>
+  <g transform="matrix(4.17 0 0 4.17 200 195.83)" id="surface1">
+    <path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;" d="M 16.211 -12.332 L 11.168 -0.801 L 10.816 0 L 11.168 0.801 L 16.211 12.332 L -14.613 0 L 16.211 -12.332 M 20 -16 L -20 0 L 20 16 L 13 0 L 20 -16 Z" stroke-linecap="round" transform="matrix(-1, 0, 0, -1, 0, 0)"/>
+  </g>
+  <g transform="matrix(4.17 0 0 4.17 210.42 195.83)" id="surface1">
+    <path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;" d="M 9.5 -1 L 8.5 -7 L -9.5 0 L 7.5 7 L 5.5 2 L -2.5 0 L 9.5 0 L 9.5 -1 Z M 1.16 -2 L 6.934 -4.242 L 7.305 -2 L 1.16 -2 Z" stroke-linecap="round" transform="matrix(-1, 0, 0, -1, 0, 0)"/>
+  </g>
+</svg>
